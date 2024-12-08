@@ -1,5 +1,5 @@
-/// <reference path="Teacher.ts" />
-/// <reference path="Subject.ts" />
+/// <reference path="Teacher.js" />
+/// <reference path="Subject.js" />
 var __extends = (this && this.__extends) || (function () {
     var extendStatics = function (d, b) {
         extendStatics = Object.setPrototypeOf ||
